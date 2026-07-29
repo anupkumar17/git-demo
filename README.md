@@ -1,4 +1,10 @@
 # git-demo
+
 Git Practice Repo
 This is Read me file.
-I adding content to it. 
+I adding content to it.
+
+Adding new line in Local Repo.
+
+
+
